@@ -1,0 +1,28 @@
+{
+  "name": "pagium2-command-cli",
+  "version": "1.0.0",
+  "description": "pagium2 init project",
+  "main": "index.js",
+  "preferGlobal": true,
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pagium2/pagium2-command-cli.git"
+  },
+  "keywords": [
+    "pagium",
+    "init"
+  ],
+  "author": "rahul.wu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pagium2/pagium2-command-cli/issues"
+  },
+  "homepage": "https://github.com/Pagium2/pagium2-command-cli",
+  "dependencies": {
+    "fs-extra": "^0.30.0",
+    "walk": "^2.3.9"
+  }
+}
