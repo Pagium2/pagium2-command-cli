@@ -1,6 +1,6 @@
 {
   "name": "pagium2-command-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "pagium2 init project",
   "main": "index.js",
   "preferGlobal": true,

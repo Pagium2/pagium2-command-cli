@@ -21,7 +21,7 @@ function run() {
     rl.question('Your project Name? default(pagium-dev)', function (answer) {
         projectName = answer;
         if (!projectName) {
-            projectName = 'pagium-dev';
+            projectName = 'pagium2-demo';
         }
         if (!fs.existsSync(process.cwd() + "/" + projectName)) {
             fs.mkdirSync(process.cwd() + "/" + projectName);
